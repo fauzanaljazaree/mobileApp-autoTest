@@ -1,0 +1,10 @@
+# Abaikan folder node_modules
+node_modules/
+
+# Abaikan package-lock.json
+package-lock.json
+
+# Abaikan allure-result
+allure-results/
+.allure
+allure-report/
