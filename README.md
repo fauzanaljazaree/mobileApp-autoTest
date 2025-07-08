@@ -50,7 +50,7 @@ Pastikan lingkungan lokal Anda sudah memenuhi kebutuhan berikut:
 
 1. **Clone repo ini dan masuk ke direktori:**
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/fauzanaljazaree/mobileApp-autoTest
    cd mobileApp-autoTest
    ```
 
